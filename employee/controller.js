@@ -1,4 +1,4 @@
- import CrudOperations from "../curdOpertions/moongodbCrud.js";
+ import CrudOperations from "../crudOpertions/moongodbCrud.js";
  import {Employee}from "../models/employee.js";
  import bcrypt from "bcryptjs";
  import jwt from "jsonwebtoken";
